@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi!
+
+I'm currently uploading my projects to GitHub so my projects can be incomplete, I'll be adding code, descriptions and media in following days.
 
 <!--
 **EtherealSoul96/EtherealSoul96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
