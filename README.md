@@ -3,7 +3,7 @@
 I'm currently uploading my projects to GitHub, so they can be incomplete.  
 I'll be adding code, descriptions and media in following days.
 
-Some of my code can be untidy because it was made for personal use.
+Some of my code can be untidy because it was made for personal use.  
 I often write many comments about different ideas I have to add to my projects, potential solutions and things to keep in mind.
 
 <!--
