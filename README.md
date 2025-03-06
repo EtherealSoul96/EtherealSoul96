@@ -1,6 +1,6 @@
 ## Hi!
 
-I'm currently uploading my projects to GitHub so my projects can be incomplete.
+I'm currently uploading my projects to GitHub, so they can be incomplete.  
 I'll be adding code, descriptions and media in following days.
 
 Some of my code can be untidy because it was made for personal use.
